@@ -3,7 +3,7 @@
   "name": "browser-game-characters-filament",
   "display_name": "Browser Game Characters Filament",
   "description": "Filament 5 character administration surface.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\CharactersFilament\\CharactersFilamentServiceProvider",
   "requires": {
